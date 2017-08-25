@@ -6,4 +6,4 @@ npm install -g protractor
 npm install -g webdriver-manager 
 protractor --version
 npm install
-ng e2e
+protractor:
